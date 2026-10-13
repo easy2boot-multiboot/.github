@@ -16,7 +16,7 @@ Easy2Boot turns a USB disk into a list of bootable files. The first step formats
 4. Boot a test PC and see that entry.
 5. Add further images only after the first one starts.
 
-![Easy2Boot menu folders on a prepared USB stick](FOTO)
+![Easy2Boot menu folders on a prepared USB stick](https://www.techspot.com/images2/downloads/topdownload/2021/01/2021-01-13-ts3_thumbs-35b.png)
 
 ## Fits
 
